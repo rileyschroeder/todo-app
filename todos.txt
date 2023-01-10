@@ -1,9 +1,8 @@
 add a new player
 clean the program
-buy xmas gifts
 Make soup.
 Finish the GUI
 Check if the EDIT button works
 Check if the EDIT button works
 My newest todo is added
-hello
+Check Luna for dirt
